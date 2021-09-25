@@ -1,0 +1,15 @@
+{
+  "name": "mp3_stream",
+  "version": "1.0.0",
+  "description": "A mp3 player, streaming, website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emanuel Lugo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "howler": "^2.2.3"
+  }
+}
